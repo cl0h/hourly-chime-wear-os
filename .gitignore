@@ -1,3 +1,10 @@
+.gradle/
+.idea/
+*.iml
+local.properties
+build/
+*.log
+
 # Compiled class file
 *.class
 
